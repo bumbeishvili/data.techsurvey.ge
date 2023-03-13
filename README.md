@@ -10,6 +10,7 @@ Current survey:
 <br/>
 
 Old survey results:  
+1. [2022.techsurvey.ge](https://latest.techsurvey.ge)  
 1. [2021.techsurvey.ge](https://latest.techsurvey.ge)  
 1. [2020.techsurvey.ge](https://latest.techsurvey.ge)  
 1. [2019.techsurvey.ge](https://latest.techsurvey.ge)  
